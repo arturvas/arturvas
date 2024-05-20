@@ -1,9 +1,9 @@
 ## Hi there 👋
-### I'm Artur, front-end developer
+### I'm Artur, backend developer
 
 
 - 🔭 I’m currently working on my own portifolio to get more experience.
-- 🌱 And currently moving to back-end stack, learning PHP, Symfony, SQL
+- 🌱 And currently moving to backend stack, learning PHP, Symfony, SQL
 - 👯 I’m looking to collaborate on any project that I can.
 - ⚡ Fun fact: I like classic art, medieval age and celtic music :D
 
