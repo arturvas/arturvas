@@ -1,10 +1,8 @@
 ## Hi there 👋
-### I'm Artur, a software developer
+### I'm Artur, a iOS developer 
 
 
-- 🔭 I’m currently working on personal projects.
-- 🌱 And currently moving to iOS Swift.
-- 👯 I’m looking to collaborate on any project that I can.
+- 🔭 iOS Swift
 - ⚡ Fun fact: I like classic art, medieval age and celtic music :D
 
 <div>
