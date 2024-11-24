@@ -1,8 +1,8 @@
 ## Hi there 👋
-### I'm Artur, a iOS developer 
+### I'm Artur, a software developer 
 
 
-- 🔭 iOS Swift
+- 🔭 Focusing on iOS Swift
 - ⚡ Fun fact: I like classic art, medieval age and celtic music :D
 
 <div>
