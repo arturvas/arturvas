@@ -1,39 +1,21 @@
-# 🌟 Bem-vindo ao meu GitHub!  
+## 🛠️ My Role  
 
-Olá, sou um desenvolvedor apaixonado por tecnologia e inovação. Meu foco atual está no **desenvolvimento mobile iOS** com **Swift** e no aprimoramento de habilidades para alcançar um impacto global no setor de tecnologia.  
+💻 **Tech Stack & Interests**  
+- **Backend Development:** Python, Django, FastAPI, RESTful APIs  
+- **Frontend Development:** JavaScript, TypeScript  
+- **Cloud & DevOps:** AWS, Docker, CI/CD  
+- **Automation & Scripting:** Python, Bash  
+- **Databases:** PostgreSQL  
 
----
-
-## 🛠️ Minhas Especialidades  
-- **Linguagens e Frameworks:**  
-  - Swift | SwiftUI  
-  - Desenvolvimento Mobile iOS  
-
-- **Competências Técnicas:**  
-  - Arquitetura de Software  
-  - Integração com APIs RESTful  
-  - Testes automatizados  
-
-- **Outras Habilidades:**  
-  - Resolução de problemas lógicos  
-  - Colaboração em equipes ágeis  
+### 🔹 Other Skills  
+- Logical problem-solving  
+- Team collaboration
 
 ---
 
-## 🌍 Objetivo  
-Atualmente, estou focado em me preparar para o mercado internacional como desenvolvedor iOS. Além disso, estou desenvolvendo fluência em **inglês** para garantir uma comunicação eficaz em ambientes globais.  
+## 🌍 Goal  
 
----
-
-## 📚 O que estou aprendendo agora  
-- Aprofundamento em **SwiftUI**
-- Boas práticas em **Clean Code** e **Design Patterns**  
-- Desenvolvimento de soft skills para colaboração internacional  
-
----
-
-## 💡 Vamos colaborar?  
-Se você quiser trocar ideias ou colaborar em projetos incríveis, fique à vontade para entrar em contato!  
+I’m currently focused on preparing myself for the international market. In addition, I’m working on achieving fluency in English to ensure effective communication in a global environment.
 
 💼 **LinkedIn:** [linkedin.com/in/arturvas](#)  
 
