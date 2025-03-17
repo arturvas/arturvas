@@ -5,17 +5,21 @@
 - **Frontend Development:** JavaScript, TypeScript  
 - **Cloud & DevOps:** AWS, Docker, CI/CD  
 - **Automation & Scripting:** Python, Bash  
-- **Databases:** PostgreSQL  
+- **Databases:** PostgreSQL
+
+**I'm also have knolege with:**
+- **Mobile Develpment:** iOS native (Swift), SwiftUI Framework
 
 ### 🔹 Other Skills  
 - Logical problem-solving  
 - Team collaboration
+- Adaptable behavior
 
 ---
 
 ## 🌍 Goal  
 
-I’m currently focused on preparing myself for the international market. In addition, I’m working on achieving fluency in English to ensure effective communication in a global environment.
+I’m currently focused on preparing myself for the international market. In addition, I’m working on achieving fluency in English to ensure effective communication in a global environment. Mind-open and aways learning new things.
 
 💼 **LinkedIn:** [linkedin.com/in/arturvas](#)  
 
