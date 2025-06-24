@@ -1,13 +1,13 @@
 ## 🛠️ My Role  
 
 💻 **Tech Stack & Interests**  
-- **Backend Development:** C# .NET, Python
+- **Backend Development:** C# .NET
 - **Frontend Development:** Angular, Tailwind, Bootstrap
 - **Cloud & DevOps:** Azure, Docker, CI/CD, TDD
 - **Databases:** PostgreSQL, SQL Server
 
 **I'm also have interest in:**
-- **Mobile Develpment:** iOS native (Swift), SwiftUI Framework
+- **Mobile Develpment:** Swift, SwiftUI Framework
 
 ### 🔹 Other Skills  
 - Team collaboration
