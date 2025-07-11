@@ -2,7 +2,7 @@
 
 💻 **Tech Stack & Interests**  
 - **Backend Development:** C# .NET
-- **Frontend Development:** Angular, Tailwind, Bootstrap
+- **Frontend Development:** React, Astro, Tailwind, JavaScript
 - **Cloud & DevOps:** Azure, Docker, CI/CD, TDD
 - **Databases:** PostgreSQL, SQL Server
 
