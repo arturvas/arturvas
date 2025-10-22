@@ -1,4 +1,4 @@
-## 🛠️ My Role  
+## 🛠️ Hi, I'm a fullstack developer  
 
 💻 **Tech Stack & Interests**  
 - **Backend Development:** C# .NET
