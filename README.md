@@ -1,7 +1,7 @@
 ## Hi! 
 
 **Tech Stack & Interests**  
-- **Fullstack Development:** C# ASP.NET, Python, JavaScript, React, Astro
+- **Fullstack Development:** React.js, JavaScript, React Native, Astro, Python
 
 **LinkedIn:** [linkedin.com/in/arturvas](#)  
 
