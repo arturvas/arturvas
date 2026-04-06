@@ -1,7 +1,7 @@
 ## Hi! 
 
 **Tech Stack & Interests**  
-- **Fullstack Development:** React.js, JavaScript, React Native, Node, Astro, Python
+- **Frontend Developer:** React.js, JavaScript, React Native, Node, Astro, Python
 
 
 <div>
